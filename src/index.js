@@ -20,7 +20,7 @@ const App = () => (
   <Wrapper>
     <MenuBar />
     <LoremIpsum />
-    <Button>自爆</Button>
+    <Button>danger</Button>
   </Wrapper>
 );
 

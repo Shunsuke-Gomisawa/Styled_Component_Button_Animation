@@ -30,6 +30,7 @@ export default styled.button`
   }
   &:hover {
     color: white;
+    cursor: not-allowed;
     &:before {
       transform: scaleX(1);
     }
